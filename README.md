@@ -17,5 +17,6 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,js,git,github,vscode,c,cpp,html,css,php,mysql,jquery,bootstrap,node.js, react, next.js, python, machine-learning, mongodb,mongoose" />
+ <img src="https://skillicons.dev/icons?i=tailwind,js,git,github,vscode,c,cpp,html,css,php,mysql,jquery,bootstrap,nodejs,react,nextjs,python,mongodb" />
+
 
